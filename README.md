@@ -19,7 +19,7 @@ It includes item pickup, dropping items, and basic inventory management mechanic
 - **Right-click** – Drop selected item
 
 ## Media
-![Inventory UI](Screenshots/Inentory-UI.jpg)
+![Inventory UI](Screenshots/Inventory-UI.jpg)
 
 ## Engine
 Unreal Engine 5.5
